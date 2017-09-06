@@ -42,7 +42,6 @@
 ## 최소한의 권장 사항 <a name="recommended-minimum"></a>
 
 <!-- Below are the essential tags for basic, minimalist websites: -->
-Below are the essential tags for basic, minimalist websites
 다음은 기본적인 웹 사이트의 필수 태그에 대한 최소 사항입니다.
 
 ```html
