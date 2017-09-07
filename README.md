@@ -608,7 +608,7 @@ Chrome 31 이후로 웹 앱을 Safari와 같은 '앱 모드'로 설정할 수 �
 
 ### Performance
 <!-- Moving the `href` attribute to the beginning of an element improves compression when GZIP is enabled, because the `href` attribute is used in `a`, `base` and `link` tags. -->
-`href` 속성이 `a`,`base` 와 `link` 태그에서 사용되기 때문에 `href` 속성을 요소의 시작 부분으로 옮기면 GZIP이 활성화되었을 때 압축이 향상됩니다.
+`href` 속성을 요소의 시작 부분으로 옮기면 GZIP이 활성화되었을 때 압축이 향상됩니다. (`href` 속성이 `a`,`base` 와 `link` 태그에서 사용될 때)
 
 Example:
 
