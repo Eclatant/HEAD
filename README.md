@@ -6,9 +6,9 @@
 - [최소한의 권장 사항](#recommended-minimum)
 - [Elements](#elements)
 - [Meta](#meta)
-  - [Meta: 권장하지 않음](#meta-not-recommended)
+  - [Meta: 권장하지 않는 사항](#meta-not-recommended)
 - [Link](#link)
-  - [Link: 권장하지 않음](#link-not-recommended)
+  - [Link: 권장하지 않는 사항](#link-not-recommended)
   - [Favicons](#favicons)
 - [Social](#social)
   - [Facebook / Open Graph](#facebook--open-graph)
@@ -152,7 +152,7 @@
 - [Geotagging on Wikipedia](https://en.wikipedia.org/wiki/Geotagging#HTML_pages)
 
 <!-- ### Meta: Not Recommended -->
-### Meta: 권장하지 않음 <a name="meta-not-recommended"></a>
+### Meta: 권장하지 않는 사항 <a name="meta-not-recommended"></a>
 다음은 채택률이 낮거나 권장되지 않는 메타 속성입니다.
 
 ```html
@@ -291,7 +291,7 @@
 <!-- More info: https://css-tricks.com/prefetching-preloading-prebrowsing/ -->
 ```
 
-### Link: 권장하지 않음 <a name="link-not-recommended"></a>
+### Link: 권장하지 않는 사항 <a name="link-not-recommended"></a>
 다음은 사용을 권장하지 않는 링크와 관련된 내용입니다. :
 
 ```html
